@@ -1,5 +1,7 @@
 # Seq2seq model to recognize handwritten text
 
+Branch with the code used in the paper.
+
 Code to replicate the results of the paper "Offline continuous handwriting recognition using sequence to sequence neural networks" https://www.sciencedirect.com/science/article/pii/S0925231218301371
 
 Software requirements:
